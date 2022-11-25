@@ -53,6 +53,8 @@ export default function Home() {
               <span className="indent1">{`}`}</span>
               <span>{`}`}</span>
             </div>
+
+            <p className="description">Code contains a string which refers to the card code <br/> Value contains the value in number of the cards in between 1 to 13, eg. Ace has a value of 1 and kign has a value of 13. <br/> Suite contains the class of the card like Spades , Diamond , Heart or clubs <br/> ImageUrl contains the url of an png image of the card. </p>
           </div>
 
 
