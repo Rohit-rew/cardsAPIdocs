@@ -57,12 +57,14 @@ h1{
   padding: 0px 150px;
   padding-top: 100px;
   box-sizing: border-box;
+  line-height: 35px;
 }
 
 h3{
   font-size: 40px;
   font-weight: 300;
   color: white;
+  margin-bottom: 10px;
 }
 
 .code{
@@ -85,6 +87,14 @@ h3{
   right: 0;
   opacity: .3;
   top: 30px;
+}
+
+.backimage2{
+  position: absolute;
+  z-index: -999;
+  left: 0;
+  opacity: .2;
+  top: 1500px;
 }
 
 
